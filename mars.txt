@@ -1,3 +1,5 @@
+This is challenge three
+We are writing about planets
 This is the planet mars
-something diff
+The biggest planet is Jupiter
 changing again!
